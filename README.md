@@ -23,8 +23,8 @@ Construo agentes de IA e automações que conectam WhatsApp, CRM e sistemas de g
 
 ## O que faço
 
-- Agentes de IA para WhatsApp, com orquestração de LLMs, ferramentas e guardrails
-- Integrações com CRM (Zoho), ERPs e sistemas de gestão via API
+- Agentes de IA refinados
+- Integrações com CRM, ERPs e sistemas de gestão via API
 - Automação de processos comerciais e operacionais
 - APIs e back-end em Python com FastAPI
 - Monitoramento e correção automatizada de erros com agentes
